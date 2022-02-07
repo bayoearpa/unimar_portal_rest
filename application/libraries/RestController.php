@@ -2,6 +2,7 @@
 
 namespace chriskacerguis\RestServer;
 
+use CI_Controller
 use Exception;
 use stdClass;
 
